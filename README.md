@@ -19,5 +19,8 @@
 ### Notes
 I couldn't get to format the collectionview even though I followed the video tutorial step by step. I'm planning on asking questions to the TA during my next session of this class.
 
-Movieapp for cs490 iOS class
+
+## Flix Part 1
+
+### App Walkthrough GIF
 ![](https://i.imgur.com/t4Ng5ho.gif)
