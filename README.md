@@ -14,7 +14,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/aTXxTX4.gif" width=250><br>
+![](https://i.imgur.com/aTXxTX4.gif)
 
 ### Notes
 I couldn't get to format the collectionview even though I followed the video tutorial step by step. I'm planning on asking questions to the TA during my next session of this class.
